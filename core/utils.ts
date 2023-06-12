@@ -63,7 +63,7 @@ export class Utils {
     public static MANUFACTURER_NAME = "DL E&C Co.,Ltd.";
     public static FCM_SENDER_ID = "251248256994";
 
-    public static COMPLEX_URL = "https://raw.githubusercontent.com/OrigamiDream/homebridge-daelim-smarthome/master/complexes/complexes.json";
+    public static COMPLEX_URL = "https://raw.githubusercontent.com/jinyoungyou/homebridge-daelim-smarthome/master/complexes/complexes.json";
     public static HOMEKIT_SECURE_VIDEO_IDLE_URL = "https://raw.githubusercontent.com/OrigamiDream/homebridge-daelim-smarthome/master/assets/hksv_camera_idle.png";
     public static MENU_INFO_URL = "https://smarthome.daelimcorp.co.kr/json/getApartMenuInfo.do";
 

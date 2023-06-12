@@ -1529,6 +1529,20 @@
                         "city": "김포시",
                         "details": "구래동"
                     }
+                },
+                {
+                    "index": "202",
+                    "apartId": "172",
+                    "region": "경기도",
+                    "name": "제일풍경채 어바니티 7단지",
+                    "status": "LIVE",
+                    "serverIp": "222.99.251.170",
+                    "directoryName": "urbanity",
+                    "geolocation": {
+                        "state": "경기도",
+                        "city": "성남시분당구",
+                        "details": "대장동"
+                    }
                 }
             ]
         },
